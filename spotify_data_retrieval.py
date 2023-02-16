@@ -50,4 +50,4 @@ print("\nUser's recently played tracks: \n")
 for track in recently_played:
     print(f"{track['track']['name']} by {track['track']['artists'][0]['name']}")
 
-#-by @mohitmahajan5824 (github)
+#-by @mohitmahajan095 (github)
