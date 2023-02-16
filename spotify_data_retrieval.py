@@ -1,3 +1,4 @@
+# Spotify Data Retrieval Script (prints the user's saved tracks, playlists & recently played tracks)
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
@@ -48,3 +49,5 @@ for playlist in playlists:
 print("\nUser's recently played tracks: \n")
 for track in recently_played:
     print(f"{track['track']['name']} by {track['track']['artists'][0]['name']}")
+
+#-by @mohitmahajan5824 (github)
