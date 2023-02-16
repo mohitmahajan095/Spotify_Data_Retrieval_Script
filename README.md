@@ -31,7 +31,7 @@ The script will then retrieve the user's saved tracks, playlists, and recently p
 
 **Note : You can also use environment variables to store your credentials and access them in your code.**
 
-# How to Retrieve Spotify Data with Python using the Spotify API.
+# Instructions for using the Spotify Data Retrieval Script.
 
 After obtaining the Client ID, Client Secret & Redirect URI,
 
