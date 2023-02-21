@@ -8,14 +8,14 @@
 # Installation                     
 To use this script, you will need to install the Spotipy library. You can do this using pip:
 
-**pip install spotipy**
+`pip install spotipy`
 
 # Usage
 1. Clone this repository to your local machine.
 2. Enter your Spotify client ID, client secret, and redirect URI when prompted.
 3. Run the script using the command :
    
-   **python spotify_data_retrieval.py**
+   `python spotify_data_retrieval.py`
 
 The script will then retrieve the user's saved tracks, playlists, and recently played tracks, and print them out to the console.
 
@@ -35,7 +35,7 @@ The script will then retrieve the user's saved tracks, playlists, and recently p
 
 After obtaining the Client ID, Client Secret & Redirect URI,
 
-1. Install the Spotipy library by running **pip install spotipy** in your terminal. (in case if you don't have)
+1. Install the Spotipy library by running `pip install spotipy` in your terminal. (in case if you don't have)
 
 2. Download the script from the repository.
 
